@@ -244,7 +244,7 @@ span{
 	font-weight:800;
 	margin:1em 0em;
 }
-a.learn {
+.learn {
 	background: none;
 	color: #fff;
 	text-decoration: none;
@@ -263,7 +263,7 @@ a.learn {
 	-msborder-radius: 3px;
 	margin:1em 0em 0em;
 }
-a.learn:hover{
+.learn:hover{
 	background:#E74C3C;
 	border:1px solid #E74C3C;
 }
@@ -987,7 +987,7 @@ a.boxclose {
 .banner-info h1 {
 	font-size: 2em;
 }
-a.learn {
+.learn {
 	font-size: 19px;
 }
 .mobi label {
@@ -1106,7 +1106,7 @@ i.accent {
 .banner-info p {
 	font-size: 1em;
 }
-a.learn {
+.learn {
 	font-size: 17px;
 }
 .banner-info {
@@ -1195,7 +1195,7 @@ padding: 1em 15em;
 	font-size: 1.5em;
 	margin: 0em 0em;
 }
-a.learn {
+.learn {
 	font-size: 15px;
 }
 .banner {
@@ -1304,7 +1304,7 @@ a.view {
 	font-size: 0.9em;
 	margin:0.5em 0em;
 }
-a.learn {
+.learn {
 	font-size: 12px;
 }
 .header {
