@@ -379,10 +379,11 @@ a.more:hover{
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	-ms-background-size: cover;
-	min-height:400px;
+	min-height:450px;
 	text-align:center;
 	position:relative;
 	padding-top: 5%;
+	padding-bottom: 5%;
 }
 .about-me-b{
 	background: url(../images/banner1.jpg) no-repeat center fixed;
@@ -391,10 +392,11 @@ a.more:hover{
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	-ms-background-size: cover;
-	min-height:400px;
+	min-height:450px;
 	text-align:center;
 	position:relative;
 	padding-top: 5%;
+	padding-bottom: 5%;
 }
 i.acent {
 	width: 100px;
