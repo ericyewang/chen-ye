@@ -372,16 +372,29 @@ a.more{
 a.more:hover{
 	background: #1C3B5A;
 }
-.about-me{
+.about-me-a{
 	background: url(../images/banner1.jpg) no-repeat center fixed;
 	background-size: cover;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	-ms-background-size: cover;
-	min-height:500px;
+	min-height:400px;
 	text-align:center;
 	position:relative;
+	padding-top: 5%;
+}
+.about-me-b{
+	background: url(../images/banner1.jpg) no-repeat center fixed;
+	background-size: cover;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	-ms-background-size: cover;
+	min-height:400px;
+	text-align:center;
+	position:relative;
+	padding-top: 5%;
 }
 i.acent {
 	width: 100px;
@@ -392,19 +405,37 @@ i.acent {
 	top: 79px;
 	left: 53em;
 }
-.about-me h2{
+.about-me-a h2{
 	font-size:2.5em;
 	font-weight:800;
 	color:#fff;
 	margin:1em 0em;
 }
-.about-me p{
+.about-me-a p{
 	font-size:1.2em;
 	font-weight:300;
 	color:#fff;
 	margin:1em 0em;
 }
-.about-me h5{
+.about-me-a h5{
+	font-size:1.5em;
+	font-weight:500;
+	color:#fff;
+	margin:1em 0em;
+}
+.about-me-b h2{
+	font-size:2.5em;
+	font-weight:800;
+	color:#fff;
+	margin:1em 0em;
+}
+.about-me-b p{
+	font-size:1.2em;
+	font-weight:300;
+	color:#fff;
+	margin:1em 0em;
+}
+.about-me-b h5{
 	font-size:1.5em;
 	font-weight:500;
 	color:#fff;
@@ -917,7 +948,10 @@ i.accent {
 .b-design p {
 	font-size: 1.1em;
 }
-.about-me h2 {
+.about-me-a h2 {
+	font-size: 2.2em;
+}
+.about-me-b h2 {
 	font-size: 2.2em;
 }
 .portfolio h2 {
@@ -1010,7 +1044,10 @@ i.accent {
 .grid_box .zoom-icon {
 	height: 113px;
 }
-.about-me h2 {
+.about-me-a h2 {
+	font-size: 2em;
+}
+.about-me-b h2 {
 	font-size: 2em;
 }
 .portfolio h2 {
@@ -1088,10 +1125,16 @@ a.learn {
 a.more {
 	font-size: 17px;
 }
-.about-me h2 {
+.about-me-a h2 {
 	font-size: 1.8em;
 }
-.about-me p {
+.about-me-b h2 {
+	font-size: 1.8em;
+}
+.about-me-a p {
+	font-size: 1em;
+}
+.about-me-b p {
 	font-size: 1em;
 }
 i.acent {
@@ -1166,18 +1209,28 @@ a.learn {
 a.more {
 	font-size: 14px;
 }
-.about-me h2 {
+.about-me-a h2 {
 	font-size: 1.5em;
 	margin: 0em 0em 1.5em;
 }
-.about-me {
+.about-me-a {
+	padding: 1.5em 0em 0em;
+}
+.about-me-b h2 {
+	font-size: 1.5em;
+	margin: 0em 0em 1.5em;
+}
+.about-me-b {
 	padding: 1.5em 0em 0em;
 }
 i.acent {
 	left: 12.9em;
 	top: 41px;
 }
-.about-me h5 {
+.about-me-a h5 {
+	font-size: 1.3em;
+}
+.about-me-b h5 {
 	font-size: 1.3em;
 }
 .portfolio h2 {
@@ -1270,17 +1323,26 @@ a.learn {
 a.more {
 	font-size: 12px;
 }
-.about-me h2 {
+.about-me-a h2 {
+	font-size: 1.2em;
+}
+.about-me-b h2 {
 	font-size: 1.2em;
 }
 i.acent {
 	left: 7em;
 	top: 38px;
 }
-.about-me p {
+.about-me-a p {
 	font-size: 0.875em;
 }
-.about-me h5 {
+.about-me-a h5 {
+	font-size: 1.1em;
+}
+.about-me-b p {
+	font-size: 0.875em;
+}
+.about-me-b h5 {
 	font-size: 1.1em;
 }
 .location h6 {
