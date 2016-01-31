@@ -267,6 +267,9 @@ span{
 	background:#E74C3C;
 	border:1px solid #E74C3C;
 }
+.learn a{
+	color: #fff;
+}
 .branding {
 	text-align:center;
 	padding:5em 0em;
