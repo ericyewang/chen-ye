@@ -245,8 +245,9 @@ span{
 	margin:1em 0em;
 }
 .learn {
-	background: none;
+	background: #fff;
 	color: #fff;
+	opacity: 0.6;
 	text-decoration: none;
 	font-size: 22px;
 	font-weight: 400;
@@ -264,11 +265,9 @@ span{
 	margin:1em 0em 0em;
 }
 .learn:hover{
-	background:#E74C3C;
-	border:1px solid #E74C3C;
-}
-.learn a{
-	color: #fff;
+	background:#fff;
+	border:1px solid #fff;
+	opacity: 1;
 }
 .branding {
 	text-align:center;
